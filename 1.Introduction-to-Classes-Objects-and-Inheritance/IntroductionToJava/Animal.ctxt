@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Write\ a\ description\ of\ Animal\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=legs
+comment1.target=void\ setLegs(int)
+comment2.params=
+comment2.target=int\ getLegs()
+comment3.params=legs
+comment3.target=Animal(int)
+numComments=4
